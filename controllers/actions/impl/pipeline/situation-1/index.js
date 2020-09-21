@@ -79,7 +79,7 @@ ctx => {
     visitor
         .event(link, "Click Slash Command", "/start")
         .send();
-    ctx.reply(
+    ctx.editMessageText(
         msgStart,
         Extra.HTML().markup((m) =>
             m.inlineKeyboard([

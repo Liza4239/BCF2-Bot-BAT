@@ -59,7 +59,7 @@ bot.action("ActionHandlerVacanciesForGraduates",
                     [
                         m.urlButton(
                             'Відгукуйся тут👇🏻',
-                            'https://m.rabota.ua/vacancy/view/6081013'
+                            'https://m.rabota.ua/company/view/771'
                         )
                     ],
                     [
